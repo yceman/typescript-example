@@ -1,0 +1,31 @@
+{
+  "name": "typescript-example",
+  "version": "1.0.0",
+  "description": "Very simple typescript example",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yceman/typescript-example.git"
+  },
+  "keywords": [
+    "Typescript",
+    "loadash",
+    "angular",
+    "StarWars"
+  ],
+  "author": "Marcos Morais",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yceman/typescript-example/issues"
+  },
+  "homepage": "https://github.com/yceman/typescript-example#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.175"
+  }
+}
